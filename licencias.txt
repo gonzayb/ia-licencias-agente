@@ -1,0 +1,4 @@
+# Licencias de InventivaAgente. Lo genera la herramienta de licencias: no editar a mano.
+v1 054bf5cce65b2a48fb14845752570373 df1ffa1e0997812dccf15c1f889f9ceb42228a432ce2ae80d3ab0228786d3a03 2030-12-31
+v1 c5d50b869cfd5c1dffaaa6e4acb028eb 6df6b73dec49cc801e27437de98cfed41dd36d4c00cfc005c09fb663890db3b8 2030-12-31
+firma: eoKUJNrlkoDJP3rFZ8tNjrMgeaLL/BT7Fh89f+FDn2mHja0fxlhNctV8tSow30Ahxdu4+eaFWYhAbJb/1tJiCw==
